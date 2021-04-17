@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicFirebaseAuth</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="txt_sal">Welcome %1$s</string>
+    <string name="txt_cerrar">Cerrar Sesion</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="txt_agregar">Agregar Usuario</string>
+</resources>
